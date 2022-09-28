@@ -1,0 +1,4 @@
+pe/isil/mavenproject1/user/dao/UserDao.class
+pe/isil/mavenproject1/user/controller/UserServlet.class
+pe/isil/mavenproject1/user/model/User.class
+pe/isil/mavenproject1/user/dao/mysql/MysqlConnection.class

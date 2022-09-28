@@ -1,0 +1,4 @@
+/Users/edu/NetBeansProjects/mavenproject1/src/main/java/pe/isil/mavenproject1/user/model/User.java
+/Users/edu/NetBeansProjects/mavenproject1/src/main/java/pe/isil/mavenproject1/user/dao/UserDao.java
+/Users/edu/NetBeansProjects/mavenproject1/src/main/java/pe/isil/mavenproject1/user/dao/mysql/MysqlConnection.java
+/Users/edu/NetBeansProjects/mavenproject1/src/main/java/pe/isil/mavenproject1/user/controller/UserServlet.java
