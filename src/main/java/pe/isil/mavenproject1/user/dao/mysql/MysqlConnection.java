@@ -19,12 +19,8 @@ public class MysqlConnection {
     public static final String USER = "root";
     public static final String PASS = "budakar01";
     
-    public MysqlConnection(){
-        try{
-            Class.forName(DRIVER);
-        }catch(ClassNotFoundException e){
-            e.printStackTrace();
-        }
+    public MysqlConnection() throws Exception{
+        Class.forName(DRIVER);
     }
     
     public Connection getConnection() throws SQLException{
